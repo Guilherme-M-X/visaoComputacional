@@ -1,0 +1,2 @@
+Necessário baixar o arquivo pose_iter_160000.caffemodel
+O GitHub não permitiu fazer o upload por conta do tamanho do arquivo.
